@@ -89,6 +89,7 @@
   <ul>
     <li><a href="https://github.com/anaghavs09/Diabetes-Readmission-Classification" target="_blank">Diabetes Readmission Classification</a></li>
     <li><a href="https://github.com/anaghavs09/Real-Time-Fraud-Detection-for-Secure-Financial-Transactions" target="_blank">Real Time Fraud Detection for Secure Financial Transactions</a></li>
+    <li><a href="https://github.com/anaghavs09/From-Black-Box-to-Clarity-NLP-for-Simplifying-Aviation-Conversations" target="_blank">From Black Box to Clarity NLP for Simplifying Aviation Conversations</a></li>
     <li><a href="https://github.com/anaghavs09/Automated-Candidate-Selection-System-for-Recruitment-using-NLP" target="_blank">Automated Candidate Selection System for Recruitment using NLP</a></li>
     <li><a href="https://github.com/anaghavs09/Driver-Drowsiness-Detection" target="_blank">Driver Drowsiness Detection</a></li>
     <li><a href="https://github.com/anaghavs09/Crime-data-analysis-and-forecasting" target="_blank">Crime data analysis and forecasting</a></li>
