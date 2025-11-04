@@ -1,123 +1,205 @@
-<!DOCTYPE html>
-<header>
-  <h1>Anagha Veena Sanjeev</h1>
-  <p>📍Boston, MA | 🏫 MS in Data Analytics Engineering @ Northeastern University |🚀 Actively seeking full-time roles in Data, Analytics, or BI</p>
-</header>
+<div align="center">
 
-<section>
-  <h2>🔹 About Me</h2>
-  <p>I’m a data enthusiast passionate about solving real-world problems using analytics, business intelligence, and machine learning. Currently pursuing my MS in Data Analytics Engineering, I bring hands-on experience from industry co-ops and academic projects in predictive modeling, NLP, and dashboard development.</p>
-</section>
+# 👋 Hi, I'm Anagha Veena Sanjeev
 
-<section>
-  <h2>🎓 Education</h2>
-  <div class="card">
-    <strong>Northeastern University</strong><br>
-    MS in Data Analytics Engineering | GPA: 3.73 | Dec 2025<br>
-    Courses: 
-        <ul>
-            <li>Applied Natural Language Processing</li>
-            <li>Statistical Learning</li>
-            <li>Data Mining Engineering</li>
-            <li>Computation and Visualization for Analytics</li>
-            <li>Data Management for Analytics</li>
-            <li>Foundations of Data Analytics</li>
-        </ul>
-  </div>
-  <div class="card">
-    <strong>NMAM Institute of Technology</strong><br>
-    BE in Information Science & Engineering | GPA: 8.66 | June 2023<br>
-    Courses: 
-        <ul>
-            <li>Machine Learning</li>
-            <li>Database System Models</li>
-            <li>Data Science</li>
-            <li>Deep Learning</li>
-            <li>Python Programming</li>
-            <li>Computer Networks</li>
-        </ul>
-  </div>
-</section>
+### 📊 Data Analytics Engineer | Building Scalable Data Solutions
+### 🎓 MS @ Northeastern University | 🚀 Seeking Full-Time Roles (Dec 2025)
 
+📍 Boston, MA
 
-<section>
-  <h2>💪 Tech Stack</h2>
-  <table>
-    <tr><th>Category</th><th>Skills</th></tr>
-    <tr><td>Programming Languages</td><td>Python, R, SQL, PySpark</td></tr>
-    <tr><td>Databases/Warehousing</td><td>MySQL, PostgreSQL, MongoDB, AWS Athena</td></tr>
-    <tr><td>Data Tools/Software</td><td>Tableau, Power BI, Excel, dbt</td></tr>
-    <tr><td>Data Science Libraries</td><td>NumPy, Pandas, SciPy, Scikit-learn</td></tr>
-    <tr><td>Data Science Techniques</td><td>ETL, Data Visualization, Data Modeling, Data Governance, Feature Engineering, Predictive Analytics, Time Series Analysis, QA & Unit Testing</td></tr>
-    <tr><td>Soft Skills</td><td>Effective Communication, Analytical Thinking, Problem Solving, Leadership-Oriented, Attention to detail, Adaptability</td></tr>
-  </table>
-</section>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anagha-v-s)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anaghavs09)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeev.an@northeastern.edu)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://anaghavs09.github.io/portfolio/)
 
-<section>
-  <h2>💼 Experience</h2>
-  <div class="card">
-    <strong>Business Intelligence Engineer Co-op | Cohere Health</strong><br>
-    Jan 2025 – Jun 2025, Boston, MA
-    <ul>
-      <li>Designed and launched client-facing self-service Tableau dashboards and compliance reports, driving actionable insights for stakeholders on a monthly release cycle.</li>
-      <li>Automated daily data extracts for clients using PySpark and scheduled workflows with Airflow, ensuring timely and reliable data delivery.</li>
-      <li>Identified and resolved data quality issues in large-scale datasets (50+ million records) by writing optimized SQL queries in AWS Athena, improving reporting accuracy and trust.</li>
-      <li>Built scalable and standardized data models within the DBT data platform, including comprehensive documentation and robust testing to support data governance.</li>
-      <li>Authored detailed product and data requirements documentation for a self-service query builder, enhancing internal data accessibility and governance.</li>
-      <li>Collaborated cross-functionally with product, data, design, and engineering teams to support and optimize data platforms and products.</li>
-      <li>Demonstrated strong problem-solving skills and adaptability in a fast-paced, agile environment, contributing to the overall success of the data engineering team.</li>
-    </ul>
-  </div>
+</div>
 
-  <div class="card">
-    <strong>Data Scientist Intern | Exposys Data Labs</strong><br>
-    Jul 2022 – Dec 2022, India
-    <ul>
-      <li>Built and deployed machine learning models (classification, clustering, regression) using Python and scikit-learn to solve real-world business challenges.</li>
-      <li>Automated data collection, preprocessing, and ETL pipelines, ensuring robust and efficient data flows for analytics and reporting.</li>
-      <li>Developed interactive dashboards and real-time reporting tools with Power BI, Matplotlib, and Seaborn, enabling stakeholders to make data-driven decisions.</li>
-      <li>Applied Natural Language Processing (NLP) techniques to analyze customer feedback, extracting actionable insights that improved product and service quality.</li>
-      <li>Collaborated with cross-functional teams to deliver AI-driven solutions for client projects, contributing to automation and big data initiatives.</li>
-      <li>Documented project workflows and findings for reproducibility and effective team knowledge sharing using GitHub for version control.</li>
-      <li>Contributed to impactful projects in areas such as e-security, automation, and predictive analytics, aligning with the company’s mission of leveraging technology for real-world solutions.</li>
-    </ul>
-  </div>
-</section>
+---
 
-<section>
-  <h2>🔨 Projects</h2>
-  <ul>
-    <li><a href="https://github.com/anaghavs09/RebalanceAI-AI-Powered-Investment-Portfolio-Analyzer" target="_blank">AI Powered Investment Portfolio Analyzer</a></li>
-    <li><a href="https://github.com/anaghavs09/Diabetes-Readmission-Classification" target="_blank">Diabetes Readmission Classification</a></li>
-    <li><a href="https://github.com/anaghavs09/Real-Time-Fraud-Detection-for-Secure-Financial-Transactions" target="_blank">Real Time Fraud Detection for Secure Financial Transactions</a></li>
-    <li><a href="https://github.com/anaghavs09/From-Black-Box-to-Clarity-NLP-for-Simplifying-Aviation-Conversations" target="_blank">From Black Box to Clarity NLP for Simplifying Aviation Conversations</a></li>
-    <li><a href="https://github.com/anaghavs09/Automated-Candidate-Selection-System-for-Recruitment-using-NLP" target="_blank">Automated Candidate Selection System for Recruitment using NLP</a></li>
-    <li><a href="https://github.com/anaghavs09/Driver-Drowsiness-Detection" target="_blank">Driver Drowsiness Detection</a></li>
-    <li><a href="https://github.com/anaghavs09/Crime-data-analysis-and-forecasting" target="_blank">Crime data analysis and forecasting</a></li>
-    <li><a href="https://github.com/anaghavs09/Analyzing-Customer-Behavior-Expenses-and-Supply-Management-in-Amusement-Parks" target="_blank">Analyzing Customer Behavior Expenses and Supply Management in Amusement Parks</a></li> 
-  </ul>
-</section>
+## 🔹 About Me
 
-<section>
-  <h2>📖 Certifications</h2>
-  <ul>
-    <li><a href="https://drive.google.com/file/d/1TrFhX6HS1HdDqoXyQMhA1JKvEF5-V6df/view?usp=sharing" target="_blank">JP Morgan Chase & Co. Excel Skills Job Simulation</a></li>
-    <li><a href="https://www.coursera.org/account/accomplishments/verify/QAHM77KUYQBZ" target="_blank">Managing Big Data with MySQL</a></li>
-    <li><a href="https://www.coursera.org/account/accomplishments/verify/93GKVLC9J7HE" target="_blank">AWS Cloud Practitioner Essentials</a></li>
-  </ul>
-</section>
+👋 Hi! I'm **Anagha** — a **Data Analytics Engineer** passionate about transforming complex data into actionable insights.
 
-<section>
-  <h2>📞 Contact info</h2>
-    <li>✉️<a href="mailto:sanjeev.an@northeastern.edu">sanjeev.an@northeastern.edu</a><br></li>
-    <li>🔗<a href="https://www.linkedin.com/in/anagha-v-s/" target="_blank">LinkedIn/anagha-v-s</a><br></li>
-    <li>💻<a href="https://github.com/anaghavs09" target="_blank">GitHub/anagha09</a><br></li>
-  </div>
-</section>
-<footer>
-  <h2>💬 Let's Connect</h2>
-  <p>✨ Currently open to full-time roles in Data, BI, or Analytics </p>
-</footer>
+💼 **What I Bring:**
+- **Production Experience:** Built scalable **dbt data models** and analytics solutions processing **50M+ records** at Cohere Health
+- **End-to-End Data Skills:** From **ETL pipelines** (Airflow, PySpark) to **data modeling** (dbt, SQL) to **analytics** (Tableau, Power BI)
+- **Cross-Industry Experience:** Delivered solutions across healthcare, finance, e-commerce, and logistics
+- **Modern Data Stack:** dbt + AWS (Athena, Glue, S3, Redshift) + Tableau + Python
 
-</body>
-</html>
+🎯 **Currently:**
+- 🎓 Completing **MS in Data Analytics Engineering** at Northeastern (Dec 2025) — **GPA: 3.73**
+- 🔍 Seeking **full-time roles** in Data Engineering, Analytics Engineering, or Business Intelligence
+
+💡 **What Excites Me:**  
+Building data systems that don't just report what happened, but help teams understand patterns, optimize operations, and make better decisions.
+
+---
+
+## 💪 Tech Stack
+
+### Data Engineering & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+
+### Databases & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+### Visualization & BI
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+
+### Data Science & ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+### Tools & Workflow
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+**💡 Specialties:** ETL/ELT Pipelines | Data Modeling | SQL Optimization | Business Intelligence | Data Quality | Analytics
+
+---
+
+## 💼 Professional Experience
+
+### **Business Intelligence Engineer Co-op** | Cohere Health
+*Jan 2025 – Jun 2025, Boston, MA*
+
+**📊 Key Impact:**
+- Processed **50M+ records** using optimized SQL in AWS Athena
+- Built **dbt data models** with comprehensive testing ensuring 98% data quality
+- Automated **data workflows** using PySpark and Airflow serving 15+ clients
+- Reduced query runtime by **40%** through optimization and data modeling
+
+### **Data Scientist** | Exposys Data Labs
+*Jun 2022 – Jun 2023, Bengaluru, India*
+
+**📊 Key Impact:**
+- Delivered **5+ analytics solutions** across e-commerce, finance, and logistics
+- Built **automated ETL pipelines** processing 10M+ records daily
+- Created **15+ Power BI reports** for business intelligence
+- Reduced manual processing time by **60%** through automation
+
+---
+
+## 🔨 Featured Projects
+
+### 🤖 [RebalanceAI - AI Portfolio Analyzer](https://github.com/anaghavs09/RebalanceAI-Langchain-hackathon)
+AI-powered investment portfolio analyzer combining quantitative analysis with sentiment analysis using LangChain
+- **Tech:** Python, LangChain, OpenAI, yFinance, NewsAPI
+- **Application:** Financial analytics | Portfolio optimization
+
+### 📊 [Customer Segmentation using RFM Analysis](https://github.com/anaghavs09/Customer-Segmentation-using-RFM-Analysis)
+Data-driven customer segmentation for targeted marketing strategies
+- **Tech:** Python, K-Means, Pandas, Matplotlib
+- **Insight:** Identified 5 segments; top 2 represent 60% of revenue
+
+### 📈 [Crime Data Analysis & Forecasting](https://github.com/anaghavs09/Crime-data-analysis-and-forecasting)
+Time series forecasting for crime prediction and resource allocation
+- **Tech:** Python, ARIMA, Prophet, Statistical Analysis
+- **Application:** Predictive analytics | Public safety planning
+
+### 🔍 [Fraud Detection System](https://github.com/anaghavs09/Real-time-Fraud-Detection)
+Analytics system for detecting fraudulent transactions using pattern recognition
+- **Tech:** Python, Scikit-learn, Pandas
+- **Application:** Financial security | Anomaly detection
+
+### 🏥 [Diabetes Readmission Analysis](https://github.com/anaghavs09/Diabetes-Readmission-Classification)
+Predictive analytics for identifying high-risk patient readmission patterns
+- **Tech:** Python, Pandas, Statistical Modeling
+- **Domain:** Healthcare analytics
+
+### ✈️ [Aviation Communication Analysis](https://github.com/anaghavs09/From-Black-Box-to-Clarity-NLP-for-Simplifying-Aviation-Conversations)
+NLP system for analyzing and simplifying complex aviation communications
+- **Tech:** Python, NLP, Text Processing
+- **Application:** Domain-specific text analytics
+
+### 🎢 [Amusement Park Operations Analytics](https://github.com/anaghavs09/Analyzing-Customer-Behavior-Expenses-and-Supply-Management-in-Amusement-Parks)
+End-to-end analytics for optimizing park operations and customer experience
+- **Tech:** Python, SQL, Tableau, Time Series
+- **Insights:** Revenue optimization | Customer behavior patterns
+
+### 🔐 [Recruitment Analytics using NLP](https://github.com/anaghavs09/Automated-Candidate-Selection-System-for-Recruitment-using-NLP)
+NLP-based system for resume screening and candidate matching
+- **Tech:** Python, NLP, spaCy, Text Analytics
+- **Impact:** Automated screening process
+
+### 🚗 [Driver Monitoring System](https://github.com/anaghavs09/Driver-Drowsiness-Detection)
+Computer vision application for real-time driver monitoring
+- **Tech:** Python, OpenCV, Image Processing
+- **Application:** Safety analytics
+
+**📁 [View All Projects →](https://github.com/anaghavs09?tab=repositories)**
+
+---
+
+## 🎓 Education
+
+### **Northeastern University**
+**MS in Data Analytics Engineering** | GPA: 3.73 | *Dec 2025*
+
+**Relevant Courses:**
+- Applied Generative AI
+- Applied Natural Language Processing
+- Statistical Learning & Data Mining Engineering
+- Computation and Visualization for Analytics
+- Data Management for Analytics
+
+### **NMAM Institute of Technology**
+**BE in Information Science & Engineering** | GPA: 8.66 | *June 2023*
+
+**Relevant Courses:**
+- Machine Learning | Deep Learning | Data Science
+- Database System Models | Python Programming
+
+---
+
+## 📖 Certifications
+
+✅ **JP Morgan Chase & Co. - Excel Skills Job Simulation**  
+   *Advanced financial modeling and data analysis*
+
+✅ **Managing Big Data with MySQL** (Duke University - Coursera)  
+   *Database design, query optimization, big data handling*
+
+✅ **AWS Cloud Practitioner Essentials**  
+   *Cloud architecture, AWS services, best practices*
+
+---
+
+## 💬 Let's Connect!
+
+I'm actively seeking **full-time opportunities** starting **December 2025** in:
+
+🎯 **Target Roles:**
+- Data Engineer / Analytics Engineer
+- Business Intelligence Engineer
+- Data Analyst
+- Data Scientist
+
+📍 **Location:** Boston, MA | Open to relocation across the US  
+💼 **Work Style:** Remote, Hybrid, or On-site
+
+**📫 Reach Out:**
+- 📧 Email: sanjeev.an@northeastern.edu
+- 💼 LinkedIn: [linkedin.com/in/anagha-v-s](https://www.linkedin.com/in/anagha-v-s)
+- 💻 GitHub: [github.com/anaghavs09](https://github.com/anaghavs09)
+- 🌐 Portfolio: [anaghavs09.github.io/portfolio](https://anaghavs09.github.io/portfolio/)
+
+---
+
+<div align="center">
+
+### ⭐ Currently Open to Opportunities | Let's Build Data Solutions Together! ⭐
+
+*"Good data tells you what happened. Great analytics tells you what to do next."*
+
+</div>
