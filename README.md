@@ -96,6 +96,11 @@ Building data systems that don't just report what happened, but help teams under
 AI-powered investment portfolio analyzer combining quantitative analysis with sentiment analysis using LangChain
 - **Tech:** Python, LangChain, OpenAI, yFinance, NewsAPI
 - **Application:** Financial analytics | Portfolio optimization
+- 
+### 🛒 [E-Commerce Data Warehouse & Analytics](https://github.com/anaghavs09/ecommerce-sales-pipeline)
+Complete ETL pipeline with dbt transformations analyzing 100K+ orders
+- **Tech:** Python, pandas, PostgreSQL, dbt, Star Schema, SQL
+- **Impact:** Customer LTV metrics, automated data quality testing, business intelligence layer
 
 ### 📊 [Customer Segmentation using RFM Analysis](https://github.com/anaghavs09/Customer-Segmentation-using-RFM-Analysis)
 Data-driven customer segmentation for targeted marketing strategies
