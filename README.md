@@ -92,7 +92,7 @@ Building data systems that don't just report what happened, but help teams under
 
 ## 🔨 Featured Projects
 
-### 🤖 [RebalanceAI - AI Portfolio Analyzer](https://github.com/anaghavs09/RebalanceAI-Langchain-hackathon)
+### 🤖 [RebalanceAI - AI Portfolio Analyzer](https://github.com/anaghavs09/RebalanceAI-AI-Powered-Investment-Portfolio-Analyzer)
 AI-powered investment portfolio analyzer combining quantitative analysis with sentiment analysis using LangChain
 - **Tech:** Python, LangChain, OpenAI, yFinance, NewsAPI
 - **Application:** Financial analytics | Portfolio optimization
