@@ -3,9 +3,9 @@
 # 👋 Hi, I'm Anagha Veena Sanjeev
 
 ### 📊 Data Analytics Engineer | Building Scalable Data Solutions
-### 🎓 MS @ Northeastern University | 🚀 Seeking Full-Time Roles (Dec 2025)
+### 🎓 MS @ Northeastern University | 🚀 Seeking Full-Time Roles
 
-📍 Boston, MA
+📍 United States
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anagha-v-s)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anaghavs09)
@@ -25,10 +25,6 @@
 - **End-to-End Data Skills:** From **ETL pipelines** (Airflow, PySpark) to **data modeling** (dbt, SQL) to **analytics** (Tableau, Power BI)
 - **Cross-Industry Experience:** Delivered solutions across healthcare, finance, e-commerce, and logistics
 - **Modern Data Stack:** dbt + AWS (Athena, Glue, S3, Redshift) + Tableau + Python
-
-🎯 **Currently:**
-- 🎓 Completing **MS in Data Analytics Engineering** at Northeastern (Dec 2025) — **GPA: 3.73**
-- 🔍 Seeking **full-time roles** in Data Engineering, Analytics Engineering, or Business Intelligence
 
 💡 **What Excites Me:**  
 Building data systems that don't just report what happened, but help teams understand patterns, optimize operations, and make better decisions.
@@ -76,7 +72,7 @@ Building data systems that don't just report what happened, but help teams under
 **📊 Key Impact:**
 - Processed **50M+ records** using optimized SQL in AWS Athena
 - Built **dbt data models** with comprehensive testing ensuring 98% data quality
-- Automated **data workflows** using PySpark and Airflow serving 15+ clients
+- Automated **data workflows** using PySpark and Airflow serving 8+ clients
 - Reduced query runtime by **40%** through optimization and data modeling
 
 ### **Data Scientist** | Exposys Data Labs
@@ -85,7 +81,7 @@ Building data systems that don't just report what happened, but help teams under
 **📊 Key Impact:**
 - Delivered **5+ analytics solutions** across e-commerce, finance, and logistics
 - Built **automated ETL pipelines** processing 10M+ records daily
-- Created **15+ Power BI reports** for business intelligence
+- Created **6+ Tableau reports** for business intelligence
 - Reduced manual processing time by **60%** through automation
 
 ---
@@ -96,7 +92,7 @@ Building data systems that don't just report what happened, but help teams under
 AI-powered investment portfolio analyzer combining quantitative analysis with sentiment analysis using LangChain
 - **Tech:** Python, LangChain, OpenAI, yFinance, NewsAPI
 - **Application:** Financial analytics | Portfolio optimization
-- 
+
 ### 🛒 [E-Commerce Data Warehouse & Analytics](https://github.com/anaghavs09/ecommerce-sales-pipeline)
 Complete ETL pipeline with dbt transformations analyzing 100K+ orders
 - **Tech:** Python, pandas, PostgreSQL, dbt, Star Schema, SQL
@@ -127,21 +123,6 @@ NLP system for analyzing and simplifying complex aviation communications
 - **Tech:** Python, NLP, Text Processing
 - **Application:** Domain-specific text analytics
 
-### 🎢 [Amusement Park Operations Analytics](https://github.com/anaghavs09/Analyzing-Customer-Behavior-Expenses-and-Supply-Management-in-Amusement-Parks)
-End-to-end analytics for optimizing park operations and customer experience
-- **Tech:** Python, SQL, Tableau, Time Series
-- **Insights:** Revenue optimization | Customer behavior patterns
-
-### 🔐 [Recruitment Analytics using NLP](https://github.com/anaghavs09/Automated-Candidate-Selection-System-for-Recruitment-using-NLP)
-NLP-based system for resume screening and candidate matching
-- **Tech:** Python, NLP, spaCy, Text Analytics
-- **Impact:** Automated screening process
-
-### 🚗 [Driver Monitoring System](https://github.com/anaghavs09/Driver-Drowsiness-Detection)
-Computer vision application for real-time driver monitoring
-- **Tech:** Python, OpenCV, Image Processing
-- **Application:** Safety analytics
-
 **📁 [View All Projects →](https://github.com/anaghavs09?tab=repositories)**
 
 ---
@@ -149,7 +130,7 @@ Computer vision application for real-time driver monitoring
 ## 🎓 Education
 
 ### **Northeastern University**
-**MS in Data Analytics Engineering** | GPA: 3.73 | *Dec 2025*
+**MS in Data Analytics Engineering** | GPA: 3.8 | *Dec 2025*
 
 **Relevant Courses:**
 - Applied Generative AI
@@ -182,7 +163,7 @@ Computer vision application for real-time driver monitoring
 
 ## 💬 Let's Connect!
 
-I'm actively seeking **full-time opportunities** starting **December 2025** in:
+I'm actively seeking **full-time opportunities** in:
 
 🎯 **Target Roles:**
 - Data Engineer / Analytics Engineer
@@ -194,7 +175,7 @@ I'm actively seeking **full-time opportunities** starting **December 2025** in:
 💼 **Work Style:** Remote, Hybrid, or On-site
 
 **📫 Reach Out:**
-- 📧 Email: sanjeev.an@northeastern.edu
+- 📧 Email: anaghavs09@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/anagha-v-s](https://www.linkedin.com/in/anagha-v-s)
 - 💻 GitHub: [github.com/anaghavs09](https://github.com/anaghavs09)
 - 🌐 Portfolio: [anaghavs09.github.io/portfolio](https://anaghavs09.github.io/portfolio/)
