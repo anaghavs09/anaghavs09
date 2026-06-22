@@ -3,13 +3,12 @@
 # 👋 Hi, I'm Anagha Veena Sanjeev
 
 ### 📊 Data Analytics Engineer | Building Scalable Data Solutions
-### 🎓 MS @ Northeastern University | 🚀 Seeking Full-Time Roles
+### 🎓 MS @ Northeastern University 
 
 📍 United States
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anagha-v-s)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anaghavs09)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjeev.an@northeastern.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=About.me&logoColor=white)](https://anaghavs09.github.io/Portfolio/)
 
 </div>
@@ -75,7 +74,7 @@ Building data systems that don't just report what happened, but help teams under
 - Automated **data workflows** using PySpark and Airflow serving 8+ clients
 - Reduced query runtime by **40%** through optimization and data modeling
 
-### **Data Scientist** | Exposys Data Labs
+### **Data Analyst** | Exposys Data Labs
 *Jun 2022 – Jun 2023, Bengaluru, India*
 
 **📊 Key Impact:**
@@ -161,21 +160,7 @@ NLP system for analyzing and simplifying complex aviation communications
 
 ---
 
-## 💬 Let's Connect!
-
-I'm actively seeking **full-time opportunities** in:
-
-🎯 **Target Roles:**
-- Data Engineer / Analytics Engineer
-- Business Intelligence Engineer
-- Data Analyst
-- Data Scientist
-
-📍 **Location:** Boston, MA | Open to relocation across the US  
-💼 **Work Style:** Remote, Hybrid, or On-site
-
 **📫 Reach Out:**
-- 📧 Email: anaghavs09@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/anagha-v-s](https://www.linkedin.com/in/anagha-v-s)
 - 💻 GitHub: [github.com/anaghavs09](https://github.com/anaghavs09)
 - 🌐 Portfolio: [anaghavs09.github.io/portfolio](https://anaghavs09.github.io/portfolio/)
@@ -184,7 +169,7 @@ I'm actively seeking **full-time opportunities** in:
 
 <div align="center">
 
-### ⭐ Currently Open to Opportunities | Let's Build Data Solutions Together! ⭐
+### ⭐ Let's Build Data Solutions Together! ⭐
 
 *"Good data tells you what happened. Great analytics tells you what to do next."*
 
